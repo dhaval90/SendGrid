@@ -1,0 +1,49 @@
+[
+	{
+		"email": "hbp.10@westnet.com.au",
+		"timestamp": 1494948156,
+		"ip": "203.59.32.105",
+		"sg_event_id": "YjZjMTcyNTYtYzNkMS00N2E3LWJkOWQtMTFmNDUyYTQyZDJk",
+		"sg_message_id": "CGKyha_CTi6ONhmfcP2wlQ.filter0204p1las1-25264-59191117-23.177",
+		"useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko",
+		"event": "open"
+	},
+	{
+		"email": "mrunalshah_65@yahoo.com",
+		"timestamp": 1494948143,
+		"ip": "103.250.163.239",
+		"sg_event_id": "ZDFmYzgxOTUtYmI0Ny00NjRjLWFkMzAtNjIyZDg2Y2M1Zjc2",
+		"sg_message_id": "nl3MqGlmTt64_qk0hGypvA.filter0523p1las1-28950-591B0BE9-3B.0",
+		"useragent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+		"event": "open"
+	},
+	{
+		"email": "mrunalshah_65@yahoo.com",
+		"timestamp": 1494948191,
+		"ip": "103.250.163.239",
+		"sg_event_id": "NzlmZmY2ZDEtY2E2YS00ZGUzLWFjMDctMzU3NWVkNDE5ODY3",
+		"sg_message_id": "xe1gBSO1TAee9v6O_NRh4Q.filter0071p1las1-25499-591B1705-B.0",
+		"useragent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+		"event": "open"
+	},
+
+	{
+		"email": "mrunalshah_65@yahoo.com",
+		"timestamp": 1494947589,
+		"smtp-id": "<xe1gBSO1TAee9v6O_NRh4Q@ismtpd0018p1sin1.sendgrid.net>",
+		"sg_event_id": "o8cBZpNBQQO4l2MpanHSdg",
+		"sg_message_id": "xe1gBSO1TAee9v6O_NRh4Q.filter0071p1las1-25499-591B1705-B.0",
+		"event": "processed"
+	},
+	{
+		"ip": "198.21.0.135",
+		"response": "250 ok dirdel ",
+		"sg_event_id": "YJi1JGzzQYeIipuW7fabng",
+		"sg_message_id": "xe1gBSO1TAee9v6O_NRh4Q.filter0071p1las1-25499-591B1705-B.0",
+		"tls": 1,
+		"event": "delivered",
+		"email": "mrunalshah_65@yahoo.com",
+		"timestamp": 1494947591,
+		"smtp-id": "<xe1gBSO1TAee9v6O_NRh4Q@ismtpd0018p1sin1.sendgrid.net>"
+	}
+]
